@@ -1,6 +1,7 @@
 
-Rank:125
-Score:41584
+Score:160
+Rank:30921
 Java > Introduction : 2
 Java > String : 10
 Java > BigNumber : 1
+Java > DataStructures : 4
